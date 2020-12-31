@@ -93,12 +93,12 @@ skills:
 
     toolset:
       - name: PHP | Ruby | Go
-
+        
       - name: MsSQL | PostgreSQL
 
       - name: Rails | MVC
 
-      - name: Redis | Memcache|Etc.
+      - name: Redis | Memcache| Etc.
       
       - name: AWS | Google Cloud
 
