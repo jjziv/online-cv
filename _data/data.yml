@@ -33,7 +33,7 @@ sidebar:
         level: Familiar
 
 career-profile:
-    title: Career Profile
+    title: Overview
     summary: |
       I enjoy building software to help solve interesting and complex problems while building a strong engineering and team culture focused on sustainable technical and interpersonal growth.
 education:
@@ -92,15 +92,15 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: PHP|Ruby|Go
+      - name: PHP | Ruby | Go
 
-      - name: MsSQL|PostgreSQL
+      - name: MsSQL | PostgreSQL
 
-      - name: Rails|MVC
+      - name: Rails | MVC
 
-      - name: Redis|Memcache|Etc.
+      - name: Redis | Memcache|Etc.
       
-      - name: AWS|Google Cloud
+      - name: AWS | Google Cloud
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
