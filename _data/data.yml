@@ -50,11 +50,12 @@ education:
         Research details available on request.  
           
 experiences:
-    - role: Senior Software Engineer, Backend
+    - role: Senior Software Engineer 2, Backend
       time: 2019 - Present
       company: GOAT, Los Angeles
       details: |
         Software Engineer on the Core Buying Experience team building out new product features and scaling existing platform for growth. Using my experience, I've helped transform the team's sprint process to improve efficiency and reduce uncertainty.
+        Currently building services to that enable other Backend teams to accerlate their feature development through consolidating and improving existing APIs.
     - role: Staff Software Engineer, Storefront
       time: 2013 - 2019
       company: Wayfair, Boston
