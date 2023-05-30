@@ -80,10 +80,12 @@ experiences:
         company: GOAT, Los Angeles
         details: |
             - Marketplace Engineering - Tech Lead, Pricing & Availability
-            Leading development for our global pricing service with specific focus on the Add to Cart -> Checkout -> Purchase portion of the funnel. Maintains the Checkout experience and data processing pipeline for prices and inventory on-site.
+            
+                Leading development for our Global Pricing service with specific focus on the Add to Cart -> Checkout -> Purchase portion of the funnel. Maintained the Checkout experience and data processing pipeline for prices and inventory on-site.
             - Buying/Consumer Engineering
-            Software Engineer on the Core Buying Experience team building out new product features and scaling existing platform for growth. Using my experience, I've helped transform the team's sprint process to improve efficiency and reduce uncertainty.
-            Currently building services that enable other Backend teams to accelerate their feature development through consolidating and improving existing APIs. One of the core team members building the Black Friday experience.
+            
+                Software Engineer on the Core Buying Experience team building out new product features and scaling existing platform for growth. Using my experience, I've helped transform the team's sprint process to improve efficiency and reduce uncertainty.
+                Built services that enabled other Backend teams to accelerate their feature development through consolidating and improving existing APIs. One of the core team members that built the Black Friday experience.
       - role: Staff Software Engineer, Storefront
         time: Dec 2013 - April 2019
         company: Wayfair, Boston
