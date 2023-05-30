@@ -70,27 +70,27 @@ experiences:
     title: Experiences
     info:
       - role: Senior Software Engineer 2, Backend
-      time: 2019 - 2023
-      company: GOAT, Los Angeles
-      details: |
-          - Marketplace Engineering - Tech Lead, Pricing & Availability
-          Leading development for our global pricing service with specific focus on the Add to Cart -> Checkout -> Purchase portion of the funnel. Maintains the Checkout experience and data processing pipeline for prices and inventory on-site.
-          - Buying/Consumer Engineering
-          Software Engineer on the Core Buying Experience team building out new product features and scaling existing platform for growth. Using my experience, I've helped transform the team's sprint process to improve efficiency and reduce uncertainty.
-          Currently building services that enable other Backend teams to accelerate their feature development through consolidating and improving existing APIs. One of the core team members building the Black Friday experience.
+        time: 2019 - 2023
+        company: GOAT, Los Angeles
+        details: |
+            - Marketplace Engineering - Tech Lead, Pricing & Availability
+            Leading development for our global pricing service with specific focus on the Add to Cart -> Checkout -> Purchase portion of the funnel. Maintains the Checkout experience and data processing pipeline for prices and inventory on-site.
+            - Buying/Consumer Engineering
+            Software Engineer on the Core Buying Experience team building out new product features and scaling existing platform for growth. Using my experience, I've helped transform the team's sprint process to improve efficiency and reduce uncertainty.
+            Currently building services that enable other Backend teams to accelerate their feature development through consolidating and improving existing APIs. One of the core team members building the Black Friday experience.
       - role: Staff Software Engineer, Storefront
-      time: 2013 - 2019
-      company: Wayfair, Boston
-      details: |
-          Software Engineer on the Storefront team with experience across a number of different teams. Ask me about the following:
+        time: 2013 - 2019
+        company: Wayfair, Boston
+        details: |
+            Software Engineer on the Storefront team with experience across a number of different teams. Ask me about the following:
       
-          - Rearchitecting legacy codebases.
-          - Implementing new functionality or refactoring significant tech debt in an environment without existing test coverage.
-          - Successfully delivering significant value to a business in a relatively short amount of time.
-          - Philosophy on team building.
-          - Leading two teams at the same time.
+            - Rearchitecting legacy codebases.
+            - Implementing new functionality or refactoring significant tech debt in an environment without existing test coverage.
+            - Successfully delivering significant value to a business in a relatively short amount of time.
+            - Philosophy on team building.
+            - Leading two teams at the same time.
 
-          **Past lives at Wayfair**:
+            **Past lives at Wayfair**:
               - Login & Authentication
               - RAM (Retention, Acquisition, and Marketing)
               - Homepage, Navigation, Verticals
@@ -98,18 +98,18 @@ experiences:
               - On-Site Media
               - Lifestyle Brands Engineering
       - role: Software Security Test Engineer
-      time: 2012 - 2013
-      company: Hologic, Inc.
-      details: |
+        time: 2012 - 2013
+        company: Hologic, Inc.
+        details: |
           Software Engineer responsible for the security certifications of the various Hologic medical devices. Some responsiblities included the following:
           
-              - Created lab environment and automated test procedures.
-              - Monitored the industry for newly identified threats to cyber security and assess the risk to Hologic products.
-              - Determined Hologic product requirements associated with maintaining security and reliability in networked customer environments.
-              - Performed and documented vulnerability assessments on Hologic products and provided support to product teams.
-              - Assisted with product development efforts dealing with security and network vulnerability issues.
-              - Educated sales and service force on topics and issues related to network security and virus protection.
-              - Kept company & product teams aware of technology, industry trends, and market requirements with respect to the cyber protection of medical devices and information in healthcare environments.
+            - Created lab environment and automated test procedures.
+            - Monitored the industry for newly identified threats to cyber security and assess the risk to Hologic products.
+            - Determined Hologic product requirements associated with maintaining security and reliability in networked customer environments.
+            - Performed and documented vulnerability assessments on Hologic products and provided support to product teams.
+            - Assisted with product development efforts dealing with security and network vulnerability issues.
+            - Educated sales and service force on topics and issues related to network security and virus protection.
+            - Kept company & product teams aware of technology, industry trends, and market requirements with respect to the cyber protection of medical devices and information in healthcare environments.
 
 skills:
     title: Skills &amp; Proficiency
