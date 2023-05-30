@@ -13,7 +13,8 @@ sidebar:
 
     # Sidebar links
     email: info@jjziv.com
-    phone: 
+    phone:
+    timezone: America/PST
     website: jjziv.com #do not add http://
     linkedin: joe-zatkovich-a5093399
     github: jjziv
