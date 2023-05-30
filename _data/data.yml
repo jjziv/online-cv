@@ -17,20 +17,35 @@ sidebar:
     website: jjziv.com #do not add http://
     linkedin: joe-zatkovich-a5093399
     github: jjziv
-    telegram: # add your nickname without '@' sign
+    telegram: # add your nickname without_config.yml '@' sign
     gitlab:
     bitbucket:
     twitter: '@jzbetweeting'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      - idiom: English
-        level: Native
+      title: Languages
+      info:
+        - idiom: English
+          level: Native
 
-      - idiom: Spanish
-        level: Familiar
+        - idiom: Spanish
+          level: Familiar
+
+    interests:
+      title: Interests
+      info:
+        - item: Martial Arts
+          link:
+
+        - item: Surfing
+          link:
+
+        - item: Cooking
+          link:
 
 career-profile:
     title: Overview
