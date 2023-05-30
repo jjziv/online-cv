@@ -69,6 +69,11 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: Senior Backend Engineer, Founding Team
+        time: Jan 2023 - March 2-23
+        company: Intro
+        details: |
+            - Short term advisory work helping the team re-architect their payments platform to be more flexible, future-proof, and scalable.
       - role: Senior Software Engineer 2, Backend
         time: 2019 - 2023
         company: GOAT, Los Angeles
