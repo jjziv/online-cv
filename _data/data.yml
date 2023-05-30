@@ -55,16 +55,16 @@ education:
     title: Education
     info:
       - degree: BA in Computer Science
-      university: Boston University
-      time: 2008 - 2012
-      details: |
-        Typical undergraduate Computer Science curriculum with a specific research interest in the following areas:
+        university: Boston University
+        time: 2008 - 2012
+        details: |
+          Typical undergraduate Computer Science curriculum with a specific research interest in the following areas:
         
           - **Cryptography** – light-weight protocols, IMD security, privacy, platform security
           - **Networks** – network security, P2P, security and scalability in the cloud
           - **Operating Systems** – embedded systems, mobile OS
           
-        Research details available on request.  
+          Research details available on request.  
           
 experiences:
     title: Experiences
