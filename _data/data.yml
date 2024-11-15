@@ -42,10 +42,10 @@ sidebar:
         - item: Martial Arts
           link:
 
-        - item: Surfing
+        - item: Cooking
           link:
 
-        - item: Cooking
+        - item: Reading/Gaming
           link:
 
 career-profile:
@@ -70,6 +70,21 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: Founding Engineer
+        time: Jan 2023 - March 2023
+        company: Somnea Health
+        details: |
+          - Building a unified telehealth platform to treat various sleep disorders. Combines technology with behavioral psychology to achieve significantly better patient outcomes.
+      - role: Backend Engineer
+        time: Oct 2023 - Present
+        company: Independent Contracting
+        details: |
+          - Consulting and contracting work for e-commerce clients.
+      - role: R&R
+        time: April 2023 - Sept 2023
+        company:
+        details: |
+          - Career break to travel, recharge, and attend to personal matters.
       - role: Senior Backend Engineer, Founding Team
         time: Jan 2023 - March 2023
         company: Intro
@@ -123,11 +138,11 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: PHP | Ruby | Go
+      - name: PHP | Ruby | Go | Pyton | Javascript/Typescript
         
-      - name: MsSQL | PostgreSQL
+      - name: MsSQL | PostgreSQL | NoSQL
 
-      - name: Rails | MVC
+      - name: Rails | MVC | Flask/Django/FastAPI | Node/Express
 
       - name: Redis | Memcache | Etc.
       
