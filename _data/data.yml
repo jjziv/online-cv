@@ -21,7 +21,7 @@ sidebar:
     telegram: # add your nickname without_config.yml '@' sign
     gitlab:
     bitbucket:
-    twitter: '@jzbetweeting'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -71,7 +71,7 @@ experiences:
     title: Experiences
     info:
       - role: Founding Engineer
-        time: Jan 2023 - March 2023
+        time: Feb 2024 - Present
         company: Somnea Health
         details: |
           - Building a unified telehealth platform to treat various sleep disorders. Combines technology with behavioral psychology to achieve significantly better patient outcomes.
